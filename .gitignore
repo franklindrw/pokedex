@@ -16,7 +16,6 @@ bower_components/
 
 # IDEs and editors
 .idea/
-.angular
 
 # misc
 .sass-cache/
