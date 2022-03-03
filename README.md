@@ -1,7 +1,7 @@
-
-<h1 align="center"> Pokedex </h1>
 <br />
+<h1 align="center"> Pokedex </h1>
 <h4 align="center">Aplicativo Híbrido criado com Ionic e Angular para estudo da tecnologia</h4>
+<br />
 <div id="statusProject" align="center">
 <img src="https://img.shields.io/github/license/franklindrw/pokedex.svg?style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/franklindrw/pokedex.svg?style=for-the-badge" />
