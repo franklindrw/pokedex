@@ -1,5 +1,5 @@
 <br />
-<h1 align="center"> Pokedex </h1>
+<h1 align="center"> Pokédex </h1>
 <h4 align="center">Aplicativo Híbrido criado com Ionic e Angular para estudo da tecnologia</h4>
 <br />
 <div id="statusProject" align="center">
