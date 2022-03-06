@@ -5,10 +5,6 @@
 </ion-header>
 
 <ion-content>
-  <ion-searchbar
-    [(ngModel)]="busca"
-    placeholder="Buscar Pokémon"
-  ></ion-searchbar>
 
   <ion-list>
     <ion-item *ngFor="let pokemon of pokemons" (click)="verMais(pokemon)">
