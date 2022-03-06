@@ -9,12 +9,7 @@ import { PokedexPageRoutingModule } from './pokedex-routing.module';
 import { PokedexPage } from './pokedex.page';
 
 @NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    PokedexPageRoutingModule
-  ],
-  declarations: [PokedexPage]
+  imports: [CommonModule, FormsModule, IonicModule, PokedexPageRoutingModule],
+  declarations: [PokedexPage],
 })
 export class PokedexPageModule {}

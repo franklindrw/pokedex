@@ -5,8 +5,13 @@
 </ion-header>
 
 <ion-content>
+  <ion-searchbar
+    [(ngModel)]="busca"
+    placeholder="Buscar Pokémon"
+  ></ion-searchbar>
+
   <ion-list>
-    <ion-item *ngFor="let pokemon of pokemons">
+    <ion-item *ngFor="let pokemon of pokemons" (click)="verMais(pokemon)">
       <img
         slot="start"
         src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/{{ pokemon.entry_number }}.png"

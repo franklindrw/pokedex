@@ -8,9 +8,10 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { PokemonNamePipe } from './pipes/pokemon-name.pipe';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, PokemonNamePipe],
   entryComponents: [],
   imports: [
     BrowserModule,
