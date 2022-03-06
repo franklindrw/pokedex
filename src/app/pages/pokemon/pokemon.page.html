@@ -5,16 +5,6 @@
 </ion-header>
 
 <ion-content>
-  <ion-button
-    color="danger"
-    size="small"
-    style="margin: 20px 0 0 30px"
-    (click)="pokedex()"
-  >
-    <ion-icon name="caret-back-outline"></ion-icon>
-    voltar
-  </ion-button>
-
   <ion-card>
     <div style="text-align: center">
       <img
@@ -43,4 +33,15 @@
       </ion-list>
     </ion-card-content>
   </ion-card>
+  
+  <ion-button
+    color="danger"
+    size="small"
+    style="margin: 0 30px 20px"
+    (click)="pokedex()"
+  >
+    <ion-icon name="caret-back-outline"></ion-icon>
+    voltar
+  </ion-button>
+  
 </ion-content>
