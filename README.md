@@ -16,7 +16,7 @@
 
 Aplicativo criado para colocar em prática os conhecimentos adquiridos na live da DIO ministrado pelo danbonattis.
 
-O objetivo do projeto era fazer um aplicativo que mostrasse todos os pokemons da Poke API e, ao clicar em cima do pokemon navegasse a uma nova tela com mais informações sobre ele. Tudo usando para estrutura o Ionic que é um framework Open Source para criação de aplicativos hibridos, e para customização das interfaces foi usado o Angular que também é um framework criado pela Google e Typescript.
+O objetivo do projeto era fazer um aplicativo que mostrasse todos os pokemons da Poke API e, ao clicar em cima do pokemon navegasse a uma nova tela com mais informações sobre ele. Usamoos para estrutura o Ionic que é um framework Open Source para criação de aplicativos hibridos, e para customização das interfaces foi usado o Angular que também é um framework criado pela Google e Typescript.
 
 Com ele fui capaz de englobar os conceitos de: como estruturar um layout com Ionic, consumir APIs de forma simples com o arquivos de serviço e Roterização de páginas.
 
