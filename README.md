@@ -12,6 +12,15 @@
 
 <br /><br />
 
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
+| -------------  | --- |
+| :sparkles: Nome        |  Pokédex
+| :label: Tecnologias | Angular, Ionic
+| :rocket: URL         | 
+| :fire: Desafio     | Aplicativo Híbrido criado com Ionic e Angular para estudo da tecnologia
+
+<br /><br />
+
 ### 🔎 Sobre o Projeto
 
 Aplicativo criado para colocar em prática os conhecimentos adquiridos na live da DIO ministrado pelo danbonattis.
@@ -23,7 +32,7 @@ Com ele fui capaz de englobar os conceitos de: como estruturar um layout com Ion
 <br /><br />
 <div align="center">
   <img src="https://user-images.githubusercontent.com/81038899/156907937-1aad18a5-3d2f-413f-bb07-b45d27b185a0.gif" />
-  <img src="https://user-images.githubusercontent.com/81038899/156907938-0c8cd420-6a85-4bc2-9abd-0a0f70a8a989.gif" />
+  <img src="https://user-images.githubusercontent.com/81038899/156907938-0c8cd420-6a85-4bc2-9abd-0a0f70a8a989.gif#vitrinedev" />
 </div>
 <br />
 
